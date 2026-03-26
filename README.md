@@ -10,4 +10,4 @@ github
 ###### Nivel 6 (H6)
 
 Imagen simple
-![Texto alternativo](carrito01.jpg)
+![Texto alternativo](carrito001.jpg)
